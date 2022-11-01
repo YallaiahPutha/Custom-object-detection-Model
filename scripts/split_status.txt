@@ -1,0 +1,14 @@
+Saved 7194 entries in /home/ai-team/Object_detection_models/Vegetable_model/data/train.json and 1270 in /home/ai-team/Object_detection_models/Vegetable_model/data/temp.json
+Saved 635 entries in /home/ai-team/Object_detection_models/Vegetable_model/data/test.json and 635 in /home/ai-team/Object_detection_models/Vegetable_model/data/val.json
+Saved 6911 entries in /home/ai-team/Object_detection_models/data/vegetables/train.json and 1728 in /home/ai-team/Object_detection_models/data/vegetables/temp.json
+Saved 864 entries in /home/ai-team/Object_detection_models/data/vegetables/eval.json and 864 in /home/ai-team/Object_detection_models/data/vegetables/test.json
+Saved 6938 entries in /home/ai-team/Object_detection_models/data/vegetables/train.json and 1735 in /home/ai-team/Object_detection_models/data/vegetables/temp.json
+Saved 867 entries in /home/ai-team/Object_detection_models/data/vegetables/val.json and 868 in /home/ai-team/Object_detection_models/data/vegetables/test.json
+Saved 6716 entries in /home/ai-team/Object_detection_models/data/vegetables/train.json and 1186 in /home/ai-team/Object_detection_models/data/vegetables/temp.json
+Saved 3358 entries in /home/ai-team/Object_detection_models/data/vegetables/eval.json and 3358 in /home/ai-team/Object_detection_models/data/vegetables/test.json
+Saved 2605 entries in /home/ai-team/Object_detection_models/data/vegetables/train.json and 652 in /home/ai-team/Object_detection_models/data/vegetables/temp.json
+Saved 326 entries in /home/ai-team/Object_detection_models/data/vegetables/val.json and 326 in /home/ai-team/Object_detection_models/data/vegetables/test.json
+Saved 2605 entries in /home/ai-team/Object_detection_models/data/washroom/train.json and 652 in /home/ai-team/Object_detection_models/data/washroom/temp.json
+Saved 326 entries in /home/ai-team/Object_detection_models/data/washroom/eval.json and 326 in /home/ai-team/Object_detection_models/data/washroom/test.json
+Saved 3006 entries in /home/ai-team/Object_detection_models/data/washroom/train.json and 752 in /home/ai-team/Object_detection_models/data/washroom/temp.json
+Saved 376 entries in /home/ai-team/Object_detection_models/data/washroom/eval.json and 376 in /home/ai-team/Object_detection_models/data/washroom/test.json
