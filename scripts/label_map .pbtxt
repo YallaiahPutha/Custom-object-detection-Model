@@ -1,0 +1,65 @@
+item {
+  id: 1
+  name: 'brinjal'
+}
+
+item {
+  id: 2
+  name: 'greenchilli'
+}
+
+item {
+  id: 3
+  name: 'bittergourd'
+}
+
+item {
+  id: 4
+  name: 'garlic'
+}
+
+item {
+  id: 5
+  name: 'potato'
+}
+
+item {
+  id: 6
+  name: 'capsicum'
+}
+
+item {
+  id: 7
+  name: 'tomato'
+}
+
+item {
+  id: 8
+  name: 'carrot'
+}
+
+item {
+  id: 9
+  name: 'ginger'
+}
+
+item {
+  id: 10
+  name: 'onion'
+}
+
+item {
+  id: 11
+  name: 'ladiesfinger'
+}
+
+item {
+  id: 12
+  name: 'pumpkin'
+}
+
+item {
+  id: 13
+  name: 'cucumber'
+}
+
